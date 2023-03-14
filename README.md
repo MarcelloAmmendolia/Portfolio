@@ -8,14 +8,14 @@ Index Of contents:
 - Generative Toothbrush  
 - Parametric Earring
 - Drone Re-Topology
-- Printed Kinetic Fabric
+- Printed Kinetic Fabric  
 [Hybrid:](#hybrid) 
 - AR Filters  
 - VR Future Landscapes     
 - Videomapping   
 - Vj and live performances  
 - Light design  
-- Very Natural Interface  
+- Very Natural Interface   
 [Virtual:](#virtual) 
 - VJ digital interface  
 - Voting App and device  

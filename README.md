@@ -43,7 +43,7 @@ Index Of contents:
 ![Ammendolia Portfolio 2023_Pagina_14](https://user-images.githubusercontent.com/82780678/225056264-151ae08b-3660-415c-8a78-659230776c2f.png)  
 ![Ammendolia Portfolio 2023_Pagina_15](https://user-images.githubusercontent.com/82780678/225056301-b621b8fa-4dd8-4179-8958-53c5e91ab725.png)  
 ![Ammendolia Portfolio 2023_Pagina_16](https://user-images.githubusercontent.com/82780678/225056341-314e1614-ebc6-4359-b3e6-865f44a4ad1e.png)  
-# Hybrid    
+# Hybrid:    
 ![Ammendolia Portfolio 2023_Pagina_17](https://user-images.githubusercontent.com/82780678/225056408-f8803293-2a02-46ab-a8ca-e62cc19fe1eb.png)   
 ![Ammendolia Portfolio 2023_Pagina_18](https://user-images.githubusercontent.com/82780678/225056522-0fb69b68-7d0b-44d0-b1c5-7d060020a59d.png)  
 ![Ammendolia Portfolio 2023_Pagina_19](https://user-images.githubusercontent.com/82780678/225056567-e1961074-d4d4-4dd1-9671-9863c01c3f05.png)  

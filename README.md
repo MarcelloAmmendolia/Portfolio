@@ -2,7 +2,7 @@
 Index Of contents:  
 
 
-[Product:](# Product) 
+[Product:](#-product) 
 - Twistr Redesign 
 - Micro Midi Controller   
 - Generative Toothbrush  
@@ -11,7 +11,7 @@ Index Of contents:
 - Printed Kinetic Fabric
 
 
-[Hybrid:](# Hybrid) 
+[Hybrid:](#-hybrid) 
 - AR Filters  
 - VR Future Landscapes     
 - Videomapping   
@@ -19,7 +19,7 @@ Index Of contents:
 - Light design  
 - Very Natural Interface  
 
-[Virtual:](# Virtual) 
+[Virtual:](#-virtual) 
 - VJ digital interface  
 - Voting App and device  
 - Virtual Gallery for G. Motta  

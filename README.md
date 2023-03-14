@@ -3,7 +3,7 @@ Index Of contents:
 
 [Intro](#intro)   
 
-[:apple: Product:](#product) 
+[:full_moon: Product:](#product) 
 - Twistr Redesign 
 - Micro Midi Controller   
 - Generative Toothbrush  
@@ -11,7 +11,7 @@ Index Of contents:
 - Drone Re-Topology
 - Printed Kinetic Fabric  
  
-[Hybrid:](#hybrid) 
+[:last_quarter_moon: Hybrid:](#hybrid) 
 - AR Filters  
 - VR Future Landscapes     
 - Videomapping   
@@ -19,7 +19,7 @@ Index Of contents:
 - Light design  
 - Very Natural Interface   
  
-[Virtual:](#virtual) 
+[:new_moon: Virtual:](#virtual) 
 - VJ digital interface  
 - Voting App and device  
 - Virtual Gallery for G. Motta  

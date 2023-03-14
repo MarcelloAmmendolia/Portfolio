@@ -1,10 +1,29 @@
 # Interaction Design Portfolio (selected):  
 Index Of contents:  
+
+
 Product:  
 *- Twistr Redesign  
 *- Micro Midi Controller   
 *- Generative Toothbrush  
-*-
+*- Parametric Earring
+*- Drone Re-Topology
+*- Printed Kinetic Fabric
+
+
+Hybrid:  
+*- AR Filters  
+*- VR Future Landscapes     
+*- Videomapping   
+*- Vj and live performances  
+*- Light design  
+*- Very Natural Interface  
+
+Virtual:  
+- VJ digital interface  
+- Voting App and device  
+- Virtual Gallery for G. Motta  
+- Virtual Production  
 
 
 ![Ammendolia Portfolio 2023_Pagina_01](https://user-images.githubusercontent.com/82780678/225055571-ccc65e8e-39cc-4a94-ab42-e6ee1d990b3d.png)  

@@ -3,7 +3,7 @@ Index Of contents:
 
 [Intro](#intro)   
 
-[Product:](#product) 
+[:apple: Product:](#product) 
 - Twistr Redesign 
 - Micro Midi Controller   
 - Generative Toothbrush  

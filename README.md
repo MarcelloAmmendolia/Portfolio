@@ -1,8 +1,8 @@
-# Interaction Design Portfolio (selected):
+# Interaction Design Portfolio (selected):  
 Index Of contents:  
-Product:
-*- Twistr Redesign
-*- Micro Midi Controller  
+Product:  
+*- Twistr Redesign  
+*- Micro Midi Controller   
 *- Generative Toothbrush  
 *-
 

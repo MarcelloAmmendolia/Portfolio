@@ -1,7 +1,7 @@
 # Interaction Design Portfolio (selected):  
 Index Of contents:  
 
-[Intro](#intro)   
+[:star: Intro](#intro)   
 
 [:full_moon: Product:](#product) 
 - Twistr Redesign 

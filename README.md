@@ -10,7 +10,7 @@ Index Of contents:
 - Parametric Earring
 - Drone Re-Topology
 - Printed Kinetic Fabric  
-- 
+ 
 [Hybrid:](#hybrid) 
 - AR Filters  
 - VR Future Landscapes     
@@ -18,7 +18,7 @@ Index Of contents:
 - Vj and live performances  
 - Light design  
 - Very Natural Interface   
-- 
+ 
 [Virtual:](#virtual) 
 - VJ digital interface  
 - Voting App and device  

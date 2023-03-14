@@ -2,30 +2,30 @@
 Index Of contents:  
 
 
-Product:  
-*- Twistr Redesign  
-*- Micro Midi Controller   
-*- Generative Toothbrush  
-*- Parametric Earring
-*- Drone Re-Topology
-*- Printed Kinetic Fabric
+[Product:](#Product) 
+- Twistr Redesign 
+- Micro Midi Controller   
+- Generative Toothbrush  
+- Parametric Earring
+- Drone Re-Topology
+- Printed Kinetic Fabric
 
 
-Hybrid:  
-*- AR Filters  
-*- VR Future Landscapes     
-*- Videomapping   
-*- Vj and live performances  
-*- Light design  
-*- Very Natural Interface  
+[Hybrid:](#Hybrid) 
+- AR Filters  
+- VR Future Landscapes     
+- Videomapping   
+- Vj and live performances  
+- Light design  
+- Very Natural Interface  
 
-Virtual:  
+[Virtual:](#Virtual) 
 - VJ digital interface  
 - Voting App and device  
 - Virtual Gallery for G. Motta  
 - Virtual Production  
 
-
+#Product:  
 ![Ammendolia Portfolio 2023_Pagina_01](https://user-images.githubusercontent.com/82780678/225055571-ccc65e8e-39cc-4a94-ab42-e6ee1d990b3d.png)  
 ![Ammendolia Portfolio 2023_Pagina_02](https://user-images.githubusercontent.com/82780678/225055598-b8aae9ee-9c4c-4c0c-8383-fcb1e54d3f32.png)  
 ![Ammendolia Portfolio 2023_Pagina_03](https://user-images.githubusercontent.com/82780678/225055652-43334d77-617f-493a-85eb-2492292af5a8.png)  
@@ -42,6 +42,7 @@ Virtual:
 ![Ammendolia Portfolio 2023_Pagina_14](https://user-images.githubusercontent.com/82780678/225056264-151ae08b-3660-415c-8a78-659230776c2f.png)  
 ![Ammendolia Portfolio 2023_Pagina_15](https://user-images.githubusercontent.com/82780678/225056301-b621b8fa-4dd8-4179-8958-53c5e91ab725.png)  
 ![Ammendolia Portfolio 2023_Pagina_16](https://user-images.githubusercontent.com/82780678/225056341-314e1614-ebc6-4359-b3e6-865f44a4ad1e.png)  
+#Hybrid    
 ![Ammendolia Portfolio 2023_Pagina_17](https://user-images.githubusercontent.com/82780678/225056408-f8803293-2a02-46ab-a8ca-e62cc19fe1eb.png)   
 ![Ammendolia Portfolio 2023_Pagina_18](https://user-images.githubusercontent.com/82780678/225056522-0fb69b68-7d0b-44d0-b1c5-7d060020a59d.png)  
 ![Ammendolia Portfolio 2023_Pagina_19](https://user-images.githubusercontent.com/82780678/225056567-e1961074-d4d4-4dd1-9671-9863c01c3f05.png)  
@@ -56,7 +57,8 @@ Virtual:
 ![Ammendolia Portfolio 2023_Pagina_28](https://user-images.githubusercontent.com/82780678/225057209-4f1111f1-e8ec-424f-afc3-9c6b5df81c82.png)  
 ![Ammendolia Portfolio 2023_Pagina_29](https://user-images.githubusercontent.com/82780678/225057216-dbf745b5-4b54-4503-bb54-dc51ea349128.png)  
 ![Ammendolia Portfolio 2023_Pagina_30](https://user-images.githubusercontent.com/82780678/225057245-8e4a850c-607c-4129-868e-f12627be4cf1.png)  
-![Ammendolia Portfolio 2023_Pagina_31](https://user-images.githubusercontent.com/82780678/225057280-d0174dd1-560c-4cf9-8727-9c79662b6234.png)  
+![Ammendolia Portfolio 2023_Pagina_31](https://user-images.githubusercontent.com/82780678/225057280-d0174dd1-560c-4cf9-8727-9c79662b6234.png) 
+#Virtual  
 ![Ammendolia Portfolio 2023_Pagina_32](https://user-images.githubusercontent.com/82780678/225057310-5a9c7556-8d6c-4c48-8276-726f9ddc0883.png)  
 ![Ammendolia Portfolio 2023_Pagina_33](https://user-images.githubusercontent.com/82780678/225057344-cfe00744-b82b-4ace-9c3c-6e6dda60cb5f.png)  
 ![Ammendolia Portfolio 2023_Pagina_34](https://user-images.githubusercontent.com/82780678/225057375-0ab9f44f-cf58-486d-a1fc-9673560ca8d8.png)   
